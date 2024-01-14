@@ -23,8 +23,9 @@ import json
 
 Have both files located in the same heirarchy and run the .py file
 
-# Result
-![image](https://github.com/tprossenblum/sports_ref_intern_prompt/assets/149984771/9abfa73a-2ea7-4558-b38f-4ee8fa7fb3a5)
+# Output
+![image](https://github.com/tprossenblum/sports_ref_intern_prompt/assets/149984771/8e4a638f-43c7-4f9b-9636-47929c144190)
+
 
 
 # Contact
