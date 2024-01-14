@@ -4,7 +4,7 @@ Simple code sample that reads a json file to display a head to head matrix
 
 # Description
 
-1.Code starts by reading the json file that stores the data we want to manipulate. Once the json file is read we store the data and retrieve the keys in a list to later loop through each team. 
+1. Code starts by reading the json file that stores the data we want to manipulate. Once the json file is read we store the data and retrieve the keys in a list to later loop through each team. 
 
 2. To display the matrix we need an initial header and then each row so we initialize the string and then loop through each team. In the initial loop we add the team to the header row and adjust spacing as well as adding the same team to the initial column. 
 
